@@ -29,8 +29,3 @@ La aplicación PetClinic permite gestionar una clínica veterinaria, donde se pu
 - [Cómo desplegar la aplicación de forma local](./docs/1-deploy-local.md)
 - [Resultados](./docs/2-resultados.md)
 - [Desafío](./docs/3-desafio.md)
-
-
-## Mensaje Final
-
-¡Mucho éxito en este desafío de aprendizaje! Este proyecto puede ser el inicio de muchos. A disfrutar el conocimiento.
